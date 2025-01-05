@@ -1,0 +1,4 @@
+See file:///home/ayimany/Projects/ri3d/build/tmp/linkFrcUserProgramReleaseExecutable/output.txt for all output for linkFrcUserProgramReleaseExecutable.
+linking frcUserProgram successful.
+
+Finished linkFrcUserProgramReleaseExecutable, see full log file:///home/ayimany/Projects/ri3d/build/tmp/linkFrcUserProgramReleaseExecutable/output.txt.

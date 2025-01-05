@@ -1,0 +1,6 @@
+See file:///home/ayimany/Projects/ri3d/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling robot.cc successful.
+
+compiling main.cc successful.
+
+Finished compileFrcUserProgramDebugExecutableFrcUserProgramCpp, see full log file:///home/ayimany/Projects/ri3d/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt.

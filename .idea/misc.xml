@@ -9,7 +9,7 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$/build/BinaryCompileCommands/compileFrcUserProgramReleaseExecutableFrcUserProgramCppCompileCommands" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/build/BinaryCompileCommands/compileFrcUserProgramReleaseExecutableFrcUserProgramCppCompileCommands" />
           </set>
         </option>
       </CompDBProjectSettings>

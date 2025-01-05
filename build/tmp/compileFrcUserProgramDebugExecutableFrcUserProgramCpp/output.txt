@@ -1,4 +1,6 @@
 See file:///home/ayimany/Projects/ri3d/build/tmp/compileFrcUserProgramDebugExecutableFrcUserProgramCpp/output.txt for all output for compileFrcUserProgramDebugExecutableFrcUserProgramCpp.
+compiling drivetrain.cc successful.
+
 compiling robot.cc successful.
 
 compiling main.cc successful.

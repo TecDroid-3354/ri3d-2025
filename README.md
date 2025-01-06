@@ -1,4 +1,4 @@
-# REEFSCAPE Ri3D by TecDroid
+# REEFSCAPE🪸 Ri3D by TecDroid
 
 ¡Hola! Estamos muy emocionados de compartir nuestro Robot in 3 Days con toda la comunidad FIRST⭐
 El objetivo de este proyecto es ofrecer una fuente de inspiración práctica y accesible para construir un robot funcional en solo tres días, incluso con recursos limitados.

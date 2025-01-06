@@ -5,7 +5,9 @@ El objetivo de este proyecto es ofrecer una fuente de inspiración práctica y a
 
 ## En este repositorio encontrarás:
 **Diseño CAD del robot:** Incluye explicaciones detalladas sobre los mecanismos.
+
 **Código de programación:** Para que puedas hacer funcionar el robot fácilmente.
+
 **Blog:** Con recomendaciones, aprendizajes y nuestra experiencia construyendo este robot.
 
 Esperamos que este proyecto te sea de gran utilidad. Siéntete libre de recrearlo, personalizarlo y adaptarlo según tus necesidades. ¡El conocimiento crece cuando lo compartimos!

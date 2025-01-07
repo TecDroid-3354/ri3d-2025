@@ -13,6 +13,6 @@ El objetivo de este proyecto es ofrecer una fuente de inspiración práctica y a
 Esperamos que este proyecto te sea de gran utilidad. Siéntete libre de recrearlo, personalizarlo y adaptarlo según tus necesidades. ¡El conocimiento crece cuando lo compartimos!
 
 
-
+[CAD DEL ROBOT](https://cad.onshape.com/documents/f17ed2e6606545e6906ff3b0/w/5119153ed0601c904e56762c/e/f7a19d185a052825dd0fbd4d?renderMode=0&uiState=677d4ee78ab28a6562df61a6)
 
 

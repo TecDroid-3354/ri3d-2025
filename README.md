@@ -16,7 +16,7 @@ Esperamos que este proyecto te sea de gran utilidad. Siéntete libre de recrearl
 ## CAD del robot 🤖
 Consulta el diseño de nuestro robot [aquí](https://cad.onshape.com/documents/f17ed2e6606545e6906ff3b0/w/5119153ed0601c904e56762c/e/f7a19d185a052825dd0fbd4d?renderMode=0&uiState=677d4ee78ab28a6562df61a6)
 
-Además podrás encontrar un video explicando el CAD por una de nuestras mentoras [en este video](https://cad.onshape.com/documents/f17ed2e6606545e6906ff3b0/w/5119153ed0601c904e56762c/e/f7a19d185a052825dd0fbd4d?renderMode=0&uiState=677d4ee78ab28a6562df61a6)
+Además podrás encontrar un video explicando el CAD por una de nuestras mentoras [en este video](https://youtu.be/pV343XwAllU?si=FQmosstGTg5oUZPf)
 
 
 ## Progra del robot 🪱
@@ -24,7 +24,7 @@ En este mismo repositorio encontrarás toda la progra utilizada ¡Siéntete libr
 
 
 ## Vlog del proceso 📽️
-¿Quieres ver cómo vivimos estos 3 días? Puedes encontrar nuestros vlogs en nuestro [canal de YouTube](https://www.youtube.com/@tecdroidfrc3354)
+¿Quieres ver cómo vivimos estos 3 días? Puedes encontrar nuestro vlog en nuestro [canal de YouTube](https://www.youtube.com/@tecdroidfrc3354)
 
 ## Redes 📱
 Recuerda seguirnos en nuestras redes para enterarte de futuros proyectos
